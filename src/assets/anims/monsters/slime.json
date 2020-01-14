@@ -1,0 +1,461 @@
+{
+	"textures": [
+		{
+			"image": "slime.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 49,
+				"h": 480
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "slimeDie_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 31,
+						"w": 47,
+						"h": 5
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 47,
+						"h": 5
+					}
+				},
+				{
+					"filename": "slimeHurt_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 46,
+						"h": 21
+					},
+					"frame": {
+						"x": 1,
+						"y": 8,
+						"w": 46,
+						"h": 21
+					}
+				},
+				{
+					"filename": "slimeDie_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 46,
+						"h": 15
+					},
+					"frame": {
+						"x": 1,
+						"y": 31,
+						"w": 46,
+						"h": 15
+					}
+				},
+				{
+					"filename": "slimeAttack_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 18,
+						"w": 45,
+						"h": 18
+					},
+					"frame": {
+						"x": 1,
+						"y": 48,
+						"w": 45,
+						"h": 18
+					}
+				},
+				{
+					"filename": "slimeAttack_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 44,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 68,
+						"w": 44,
+						"h": 32
+					}
+				},
+				{
+					"filename": "slimeDie_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 10,
+						"w": 44,
+						"h": 26
+					},
+					"frame": {
+						"x": 1,
+						"y": 102,
+						"w": 44,
+						"h": 26
+					}
+				},
+				{
+					"filename": "slimeAttack_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 44,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 130,
+						"w": 44,
+						"h": 24
+					}
+				},
+				{
+					"filename": "slimeHurt_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 44,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 156,
+						"w": 44,
+						"h": 24
+					}
+				},
+				{
+					"filename": "slimeDie_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 13,
+						"w": 44,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 182,
+						"w": 44,
+						"h": 23
+					}
+				},
+				{
+					"filename": "slimeHurt_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 13,
+						"w": 44,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 207,
+						"w": 44,
+						"h": 23
+					}
+				},
+				{
+					"filename": "slimeIdle_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 13,
+						"w": 44,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 232,
+						"w": 44,
+						"h": 23
+					}
+				},
+				{
+					"filename": "slimeIdle_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 13,
+						"w": 44,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 257,
+						"w": 44,
+						"h": 23
+					}
+				},
+				{
+					"filename": "slimeIdle_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 13,
+						"w": 44,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 282,
+						"w": 44,
+						"h": 23
+					}
+				},
+				{
+					"filename": "slimeHurt_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 15,
+						"w": 44,
+						"h": 21
+					},
+					"frame": {
+						"x": 1,
+						"y": 307,
+						"w": 44,
+						"h": 21
+					}
+				},
+				{
+					"filename": "slimeIdle_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 15,
+						"w": 44,
+						"h": 21
+					},
+					"frame": {
+						"x": 1,
+						"y": 330,
+						"w": 44,
+						"h": 21
+					}
+				},
+				{
+					"filename": "slimeAttack_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 16,
+						"w": 44,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 353,
+						"w": 44,
+						"h": 20
+					}
+				},
+				{
+					"filename": "slimeAttack_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 18,
+						"w": 44,
+						"h": 18
+					},
+					"frame": {
+						"x": 1,
+						"y": 375,
+						"w": 44,
+						"h": 18
+					}
+				},
+				{
+					"filename": "slimeMove_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 16,
+						"w": 41,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 395,
+						"w": 41,
+						"h": 20
+					}
+				},
+				{
+					"filename": "slimeMove_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 16,
+						"w": 41,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 417,
+						"w": 41,
+						"h": 20
+					}
+				},
+				{
+					"filename": "slimeMove_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 18,
+						"w": 41,
+						"h": 18
+					},
+					"frame": {
+						"x": 1,
+						"y": 439,
+						"w": 41,
+						"h": 18
+					}
+				},
+				{
+					"filename": "slimeMove_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 16,
+						"w": 38,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 459,
+						"w": 38,
+						"h": 20
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:846de8bc31a21e3693a8d2ab9ec2965e:84ed273c606f9f350409e698d87f5005:5969a7bd39dc609f49b3bb3f3e71107a$"
+	}
+}
